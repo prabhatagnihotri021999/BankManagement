@@ -1,4 +1,3 @@
-# this is the main.py file
 from User_choice import User_Choice
 from Deposite_Money import Deposite
 from withdraw_money import Withdraw
