@@ -3,7 +3,6 @@
 A Python utility to handle various user-bank operations in an efficient and secure manner. The system allows users to perform various operations like withdrawing money, depositing money, checking account balance, and creating a new account. Additionally, the bank can also check user account details. 
 
 ## Features
-- User-friendly interface
 - User account management
   - Withdraw money
   - Deposit money
